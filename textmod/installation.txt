@@ -1,0 +1,9 @@
+1. Choose which version you want (GoBananas or Normal)
+2. Move "csgo_bananagaming.txt" inside this folder: Steam\SteamApps\Common\Counter-Strike Global Offensive\csgo\resource
+3. Add -language bananagaming in launch options
+4. Restart your game & enjoy
+
+Not working? Make sure that:
+- csgo_bananagaming.txt is placed in the right folder (it needs to be inside the resource folder)
+- Launch options is spelled correctly, this is an example that will work:
+-novid -language bananagaming -tickrate 128

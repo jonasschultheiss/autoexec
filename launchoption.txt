@@ -1,0 +1,1 @@
+-freq 240 -novid -refresh 240 -language bananagaming -high -tickrate 128

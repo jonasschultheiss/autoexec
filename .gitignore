@@ -1,3 +1,5 @@
 trustedlaunch.cfg
 config.cfg
-utils/connectRetake.cfg
+video.change*
+prac_cfg_default_post.cfg
+prac_cfg_default_pre.cfg
